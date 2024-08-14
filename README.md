@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning Front-End Web Development Learning Path
 - 📫 How to reach me on 
 <a href="https://www.instagram.com/wawii16" target="_blank">Instagram</a>, 
-<a href="https://www.linkedin.com/in/dwi-wahyu-m-9a598328a" target="_blank">LinkedIn</a>, and 
+<a href="https://www.linkedin.com/in/dwi-wahyu-m-9a598328a" target="_blank">LinkedIn</a>
  
 
